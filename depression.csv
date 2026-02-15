@@ -1,0 +1,605 @@
+AGE_RANGE,GENDER,EDU,PROF,MARSTS,RESDPL,LIVWTH,ENVSAT,POSSAT,FINSTR,DEBT,PHYEX,SMOKE,DRINK,ILLNESS,PREMED,EATDIS,AVGSLP,INSOM,TSSN,WRKPRE,ANXI,DEPRI,ABUSED,CHEAT,THREAT,SUICIDE,INFER,CONFLICT,LOST,DEPRESSED,total_stress_score
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,Yes,No,No,No,More than 8 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,Yes,No,0,2.0391602867216396
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,Yes,No,No,No,Yes,No,No,1,5.040850813867438
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,8 hours,No,8-10 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,0,2.0129617860693636
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,No,1,3.024338629141771
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Never,No,No,No,Yes,No,7 hours,Yes,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1,6.0146347623810055
+26-30,Male,Post Graduate,Service holder (Government),Married,City,With Family,No,Yes,Yes,Yes,Never,Yes,Yes,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1,5.044524137035023
+21-25,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,Yes,Yes,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,No,No,No,1,5.034931925073102
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,Yes,No,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,No,No,No,Yes,No,No,No,No,No,0,2.023235920994106
+26-30,Female,Post Graduate,Other,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,No,No,Yes,No,No,No,Yes,No,No,0,2.012542334011441
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,No,No,Yes,No,No,No,Yes,No,No,1,2.0224392928686266
+21-25,Female,Post Graduate,Other,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,No,More than 10 hours a day,Moderate,Yes,No,No,No,No,No,Yes,Yes,No,1,3.02300733288107
+26-30,Male,Graduate,Service holder (Private),Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,No,No,1,5.039184247133522
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,0,2.0355022988542086
+16-20,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,No,1,3.045488509703053
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,Yes,Yes,No,No,Yes,No,No,Yes,No,1,4.028888597006478
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1,2.014783769837532
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Never,No,No,No,No,Yes,5 hours,No,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,10.03852979148892
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Never,Yes,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,Yes,No,No,No,No,No,Yes,Yes,No,1,3.040431401944676
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,No,Yes,Yes,Never,Yes,Yes,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.39963209507789
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.8605714451279329
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,No,No,Never,No,No,No,Yes,Yes,5 hours,No,2-4 hours a day,No Pressure,Yes,Yes,No,No,No,Yes,Yes,Yes,No,1,7.03245108790278
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0,1.0408386871981825
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,Yes,More than 10 hours a day,Mild,Yes,Yes,Yes,No,Yes,No,No,No,No,1,5.029751823854576
+26-30,Male,Post Graduate,Service holder (Government),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,6 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0,2.03090931317528
+26-30,Male,Graduate,Student,Married,Village,With Family,No,Yes,Yes,Yes,Never,No,Yes,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1,1.027101640734342
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,Yes,1,3.0110167650697637
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.0143156570797323
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1,0.685595153449124
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,No,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1,7.01125716742747
+26-30,Female,Post Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,Yes,Yes,Yes,5 hours,Yes,More than 10 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,1,5.035456416450551
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,Yes,No,No,1,3.022574239243053
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Never,Yes,Yes,No,No,No,More than 8 hours,Yes,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1,2.0303428276465882
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,8 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,2.046302658957044
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Never,No,No,No,No,Yes,7 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,4.019971689165955
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.026415316921425
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,No,No,Yes,Yes,Sometimes,No,Yes,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1,7.040222045541722
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.019151926619665
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,No,Yes,1,4.013079196393152
+26-30,Female,Post Graduate,Student,Married,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,Yes,More than 10 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,1,3.021590058116551
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,Yes,No,No,No,No,0,4.016448851490161
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,1,1.0471879060937028
+26-30,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.5789267873576293
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,1,7.042324815182576
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Mild,No,No,No,No,Yes,No,No,Yes,No,1,2.035336150260417
+21-25,Female,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,1,7.044858423607509
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,No,8 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,Yes,1,5.042146883075964
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.0174628023554413
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,Yes,No,No,No,No,No,1,2.045702359939599
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,Yes,Yes,No,No,Yes,8 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,Yes,No,1,5.031573689676626
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,Yes,Yes,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,2.0422976062065623
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,Yes,No,No,No,Yes,1,5.04584365199694
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,No,0,0.22481491235394924
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,Yes,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,Yes,No,No,1,3.0227201389988747
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0,0.22479561626896213
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,Below 5 hours,No,8-10 hours a day,Severe,No,No,No,No,No,No,No,No,No,0,0.14646688973455957
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1,2.0144020769811073
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,7 hours,No,5-7 hours a day,Severe,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,1,7.019117406501677
+21-25,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.7929409166199481
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,No,No,No,Yes,No,5 hours,Yes,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1,8.02708431154505
+21-25,Female,Graduate,Student,Married,Village,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,Yes,No,No,1,2.0427205906369
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,8 hours,Yes,2-4 hours a day,No Pressure,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1,6.044429223330254
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,No,No,No,Yes,No,Yes,No,1,5.010278085221247
+21-25,Female,HSC,Student,Married,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1,1.0304298921031025
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0,1.026696440125951
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,Yes,More than 10 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,3.0188843124188294
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,Yes,Yes,No,No,No,No,No,No,No,1,2.0147946146933475
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,Yes,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,1,1.023504606856145
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,No,No,No,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1,1.0477163881565008
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,5 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1,3.02292811728083
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,Yes,Yes,0,2.0307516248697346
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.5808920093945671
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.6664580622368363
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0,0.11646759543664197
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,Yes,Yes,1,4.038120758355807
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,Yes,Yes,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,1,6.024545184095172
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.8759278817295955
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.7659541126403374
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,No,No,No,No,No,0,2.0488712833088383
+16-20,Female,HSC,Student,Married,City,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0,0.26987128854262094
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Never,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,1,1.0484978917976844
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,Yes,No,No,No,No,No,No,No,1,1.0200712918330146
+16-20,Female,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,No,1,3.0298899402356954
+16-20,Male,Graduate,Student,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,0,1.0220351323926709
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,1,1.0213936197750988
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.0114754778941815
+21-25,Female,Post Graduate,Unemployed,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,Yes,1,2.034382573359196
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,8-10 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,0,2.0301071609291546
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,Yes,1,3.0120591500499994
+21-25,Female,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,1.0211458585694644
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,Yes,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1,2.0463306354386663
+26-30,Female,Post Graduate,Unemployed,Married,Village,With Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,No,Less than 2 hours,Moderate,Yes,Yes,Yes,No,No,No,Yes,No,No,1,4.019582475626679
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.015795794883649
+26-30,Female,Post Graduate,Service holder (Government),Married,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,0,1.0295781104111026
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,0,1.049426018164424
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.24545997376568052
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.24672360788274705
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,1,1.01968221086046
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.3433937943676302
+16-20,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0,1.0368854218962351
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.5198051453057903
+16-20,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,Yes,No,No,Yes,No,1,4.040464784613149
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,Yes,No,No,No,No,1,2.019505501759696
+21-25,Male,Post Graduate,Student,Unmarried,Town,Without Family,No,No,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0,0.4455560149136927
+16-20,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1,2.0391286539444744
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0,1.02471132530877
+21-25,Female,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Regularly,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,Yes,No,Yes,No,No,1,4.0352922332237435
+16-20,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,No,No,No,No,No,7 hours,No,Less than 2 hours,No Pressure,No,No,Yes,No,No,No,No,No,No,0,1.0353411884304358
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1,3.0314309873629903
+31-35,Male,Post Graduate,Service holder (Government),Married,City,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,No,1,4.013611590802176
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,Yes,No,No,1,2.0434120998235694
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,1,2.0228312025988693
+21-25,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,7 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,1.017460740415994
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,5 hours,No,Less than 2 hours,No Pressure,No,Yes,No,No,No,No,Yes,No,No,0,2.0116310056621907
+16-20,Male,SSC,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,Yes,5 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,Yes,Yes,Yes,1,5.033635717727529
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,Without Family,No,Yes,Yes,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,1.0371025744736913
+21-25,Female,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,Yes,No,No,No,Yes,1,5.010663513157114
+16-20,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,More than 8 hours,No,8-10 hours a day,No Pressure,Yes,No,No,Yes,No,No,No,No,Yes,0,3.0304837223319714
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,Yes,Yes,No,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Severe,No,Yes,No,No,No,No,No,No,Yes,1,2.0190598310079175
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,1,1.035806911616378
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,2.0169746571602
+21-25,Female,Post Graduate,Student,Unmarried,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,Yes,No,7 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,Yes,Yes,No,No,1,5.037637509524099
+16-20,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0,0.3329833121584336
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,No,1,1.0254694138520215
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,No,No,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1,1.0474691995494694
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,5-7 hours a day,No Pressure,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,1,6.01550083776584
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0,1.0236426540420103
+26-30,Female,Post Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,Yes,No,No,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,No,No,1,3.0145389408496235
+26-30,Female,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,0,1.0469877447311424
+26-30,Female,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,Yes,No,No,No,Yes,1,2.0450935741352394
+26-30,Male,Post Graduate,Service holder (Private),Married,City,Without Family,No,Yes,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.5894823157779036
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,5 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.21159508852163347
+26-30,Male,Graduate,Businessman,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.3337157188281745
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,Yes,1,2.0203176651086063
+16-20,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,Yes,8 hours,No,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0,3.036399361841367
+16-20,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1,2.0426888880080485
+16-20,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,Below 5 hours,No,Less than 2 hours,No Pressure,No,No,No,No,Yes,Yes,Yes,No,No,1,3.0322080324639784
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,No,No,No,6 hours,Yes,Less than 2 hours,Severe,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,9.031186023134241
+26-30,Female,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Never,No,No,No,Yes,Yes,5 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,5.019674091636018
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.39308947463495336
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,No,0,0.46485598737362877
+21-25,Male,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,No,No,No,Regularly,Yes,Yes,No,No,No,7 hours,Yes,More than 10 hours a day,No Pressure,No,No,No,Yes,No,No,No,Yes,Yes,1,4.013724110712236
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,Less than 2 hours,No Pressure,No,No,No,No,No,Yes,No,No,No,0,3.045888630318133
+26-30,Male,Post Graduate,Other,Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,Yes,No,No,No,No,1,2.046016722286533
+21-25,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,Yes,No,No,No,No,Yes,No,No,0,2.035324058290931
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,More than 10 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,Yes,No,1,5.023561191641948
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,3.0239683829845063
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Never,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,1,2.0390382271548098
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,No,No,No,Yes,No,No,No,No,No,1,1.045884410398103
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,Less than 2 hours,Mild,Yes,No,No,No,No,No,Yes,No,No,1,3.045483456970605
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,5 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.728140769114411
+26-30,Male,Post Graduate,Service holder (Private),Married,Village,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.041195021834305
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,Yes,Never,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.0356812658461716
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,No,Sometimes,Yes,Yes,No,Yes,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,4.013365598599802
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,Yes,No,No,7 hours,No,8-10 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,No,Yes,No,1,5.016465148563785
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,No,Yes,No,Never,No,No,Yes,No,No,6 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,3.0459421675410834
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,No,No,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,Yes,No,No,No,Yes,Yes,Yes,No,1,4.034257162386384
+21-25,Female,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,Yes,5 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,3.0103678820646653
+26-30,Female,Graduate,Service holder (Private),Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.0140588617146413
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,Yes,No,Yes,No,No,No,Yes,No,No,1,3.0365400707643224
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,No,No,No,Never,Yes,Yes,No,No,No,More than 8 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,Yes,No,No,1,1.0102024633538487
+26-30,Male,Graduate,Service holder (Private),Married,Town,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.25973902572668783
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,No,No,No,8 hours,No,8-10 hours a day,Moderate,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,1,6.0164323220566995
+21-25,Female,Graduate,Student,Married,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,5.031949351574664
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,Yes,No,0,1.0376758079077077
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,Yes,No,Yes,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,1,7.036078450380104
+16-20,Male,Graduate,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,No Pressure,No,Yes,No,Yes,No,No,No,No,Yes,1,3.0189707723784225
+26-30,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,Yes,Yes,No,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,Yes,No,Yes,1,5.0384871688539015
+21-25,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.5113875507308893
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,1,7.019489963499872
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,Yes,Never,No,No,Yes,No,No,Below 5 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,No,No,1,5.023015987926371
+26-30,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.573931655089634
+26-30,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,Yes,6 hours,No,More than 10 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,No,1,3.039859656204721
+26-30,Female,Graduate,Student,Divorced,Town,With Family,No,Yes,Yes,Yes,Sometimes,Yes,No,Yes,No,Yes,7 hours,No,More than 10 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,10.035985315961888
+26-30,Male,HSC,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,Yes,Yes,Regularly,Yes,Yes,No,Yes,Yes,More than 8 hours,Yes,8-10 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,Yes,No,1,7.043968936419767
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1,2.036304515692014
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,Yes,No,Yes,No,No,No,No,Yes,1,3.032732344133419
+26-30,Male,Graduate,Other,Unmarried,City,With Family,Yes,No,No,No,Never,Yes,Yes,No,No,No,8 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1,4.013746990713123
+26-30,Male,Graduate,Businessman,Unmarried,Town,With Family,No,Yes,Yes,No,Sometimes,Yes,Yes,No,No,No,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1,1.0247086321223773
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.13716033017599819
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Never,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,No,1,1.020608094707269
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Mild,Yes,No,No,No,Yes,No,No,Yes,No,1,4.019759585735163
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,Yes,No,Yes,No,No,5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,No,Yes,1,5.048920422190098
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,0,1.0257239089866703
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0,2.0456818622070845
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,More than 8 hours,Yes,Less than 2 hours,Moderate,No,No,No,No,No,No,Yes,Yes,No,1,3.0352455450398903
+26-30,Male,Post Graduate,Service holder (Private),Married,City,Without Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,No Pressure,No,Yes,No,No,No,No,Yes,Yes,No,1,3.041792452141666
+21-25,Female,Graduate,Student,Unmarried,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,Yes,Yes,Below 5 hours,Yes,8-10 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1,8.030105483724208
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,Yes,No,No,No,No,7 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,No,No,1,4.0330761553850545
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.5860358815211507
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,Yes,No,No,No,No,No,1,1.0297007077527545
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,6 hours,No,8-10 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,0,2.017809719511922
+21-25,Male,Post Graduate,Service holder (Private),Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,Yes,Yes,No,No,No,No,No,No,1,2.03889808461046
+21-25,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,Yes,No,No,1,4.021230894497634
+26-30,Male,Graduate,Unemployed,Unmarried,City,Without Family,Yes,No,No,No,Never,Yes,No,No,No,No,6 hours,No,8-10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.23641929894983324
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,Yes,No,No,No,Below 5 hours,Yes,8-10 hours a day,No Pressure,No,No,No,Yes,No,Yes,Yes,No,Yes,1,5.010972638657258
+26-30,Male,Graduate,Other,Unmarried,City,With Family,Yes,Yes,No,Yes,Never,Yes,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.15204127438822362
+26-30,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,Yes,1,5.0358188918362865
+46-50,Male,Graduate,Businessman,Married,City,With Family,Yes,Yes,Yes,Yes,Regularly,Yes,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,Yes,Yes,Yes,1,4.017084427176282
+21-25,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,Yes,0,2.0476183433741166
+26-30,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,More than 8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,Yes,No,1,5.048157143080103
+26-30,Male,Graduate,Other,Married,City,With Family,No,No,Yes,Yes,Never,Yes,No,No,No,Yes,8 hours,Yes,8-10 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1,6.046594575608818
+21-25,Female,Graduate,Other,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,Yes,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,Yes,Yes,1,3.024806348010218
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,Yes,Yes,1,4.010618264661154
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,1,0.8591084298026667
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,1,0.8725056264596475
+26-30,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,7 hours,Yes,2-4 hours a day,No Pressure,No,No,No,No,Yes,No,Yes,No,No,1,3.047132742503509
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,No,1,1.0271273659326925
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.746717878493169
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1,6.048666192761747
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,No,Yes,Below 5 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,1.0485447990835701
+26-30,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,Yes,No,Regularly,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0,1.0441203782186943
+26-30,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,No,Never,Yes,No,No,No,No,5 hours,Yes,5-7 hours a day,No Pressure,No,Yes,No,No,No,No,No,Yes,No,1,3.0217779556827833
+16-20,Male,SSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,Yes,1,1.025403909144077
+26-30,Male,Post Graduate,Service holder (Government),Unmarried,City,Without Family,No,Yes,No,No,Never,Yes,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.34369101533869656
+26-30,Male,Graduate,Businessman,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,Yes,No,No,No,No,No,1,2.0440454668606742
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,No,Yes,Never,Yes,Yes,No,No,No,6 hours,Yes,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1,5.022676880206251
+26-30,Female,Post Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Never,No,No,No,No,Yes,8 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1,9.016779709867444
+26-30,Male,Graduate,Service holder (Private),Unmarried,Village,Without Family,Yes,Yes,Yes,Yes,Regularly,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,No,Yes,No,No,No,No,No,No,0,2.032272050498334
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,7 hours,Yes,2-4 hours a day,No Pressure,Yes,Yes,Yes,No,Yes,No,No,No,Yes,1,7.047446190966431
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,Yes,Yes,No,Yes,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,Yes,1,7.037841191866999
+21-25,Female,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,8-10 hours a day,Moderate,Yes,No,Yes,No,No,No,No,Yes,Yes,1,6.032802446803575
+26-30,Female,Graduate,Unemployed,Married,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,Yes,Yes,5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,No,1,7.0138870597508305
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,Yes,Yes,No,Yes,No,7 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,1,3.0346002890679666
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,Yes,No,0,1.0496021540041705
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,No,Regularly,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,Yes,No,No,1,2.015603360609461
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,No,No,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,1,2.0307331860945497
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,3.045094922877118
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0,0.1781376912051071
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,No,No,Sometimes,Yes,Yes,Yes,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,Yes,Yes,No,1,5.039630744710168
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,No,No,Yes,Yes,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0,2.037880629639811
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,Yes,0,2.038099363359484
+26-30,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1,2.02437964604879
+31-35,Male,Post Graduate,Other,Married,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,Yes,Yes,No,6 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0,2.0217436737705796
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,7 hours,No,2-4 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,Yes,1,4.04237444621914
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,More than 8 hours,No,8-10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1,0.6473864212097256
+26-30,Male,Graduate,Unemployed,Unmarried,Village,With Family,Yes,No,Yes,No,Never,Yes,Yes,No,No,No,6 hours,No,2-4 hours a day,Mild,No,Yes,No,Yes,No,No,No,No,No,1,2.0424045357871674
+26-30,Male,Graduate,Service holder (Government),Unmarried,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.45212199499168104
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,Yes,Yes,No,No,No,8 hours,No,8-10 hours a day,Mild,No,No,No,No,No,No,No,Yes,No,0,1.0446828927432041
+26-30,Male,Graduate,Student,Married,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,No,No,No,No,No,1,1.0465296221022589
+21-25,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0,1.0304536959544375
+26-30,Male,Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,Yes,Yes,No,1,3.030060651787488
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Severe,Yes,Yes,No,No,No,Yes,Yes,No,No,1,5.041931807158671
+26-30,Female,Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,1,6.03599855723111
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,Yes,No,Yes,No,No,7 hours,No,2-4 hours a day,Mild,Yes,No,Yes,No,No,No,No,Yes,Yes,1,4.038078675090308
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,Yes,Yes,1,3.041831706777444
+21-25,Female,Graduate,Student,Married,City,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,No,More than 8 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,Yes,No,No,No,No,0,2.0456002136727025
+26-30,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,Mild,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,1,6.023519806274061
+21-25,Male,Graduate,Student,Married,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,Yes,No,1,4.025023318105598
+26-30,Female,Graduate,Unemployed,Unmarried,City,With Family,No,No,No,No,Never,No,No,Yes,Yes,No,7 hours,No,8-10 hours a day,No Pressure,Yes,No,No,No,No,No,Yes,No,No,1,3.0137592775936346
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,No,Below 5 hours,Yes,5-7 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,Yes,1,6.033131205639847
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,Below 5 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,Yes,No,Yes,No,1,2.01143769095187
+26-30,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,Yes,Yes,No,Yes,No,7 hours,Yes,More than 10 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,Yes,Yes,1,7.028623920725298
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,No,Yes,No,No,No,Yes,No,1,2.031705785388303
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,No,No,No,Yes,Yes,No,No,No,1,2.0214616500851315
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,No,No,Yes,No,Never,No,No,No,No,Yes,8 hours,Yes,2-4 hours a day,Mild,Yes,No,No,Yes,No,No,Yes,No,No,1,5.03363333042276
+41-45,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,6 hours,No,2-4 hours a day,No Pressure,Yes,Yes,No,No,No,No,No,No,No,0,3.011220009997562
+16-20,Male,HSC,Student,Married,City,With Family,Yes,Yes,No,No,Never,Yes,No,No,No,No,6 hours,No,More than 10 hours a day,Mild,No,Yes,No,No,Yes,No,Yes,Yes,Yes,1,5.011493927549968
+26-30,Male,Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,Yes,Yes,Below 5 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,5.042904022426386
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,Yes,1,3.0244076256564507
+56-60,Male,Graduate,Service holder (Government),Married,Town,With Family,Yes,Yes,No,Yes,Never,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0,1.0150824205060753
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,Yes,No,Yes,Yes,1,3.0308897304021922
+46-50,Female,HSC,Other,Married,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,Below 5 hours,Yes,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,Yes,No,1,4.040799742123944
+21-25,Male,Graduate,Student,Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Severe,No,Yes,Yes,No,No,No,No,No,No,1,2.0186328410998735
+21-25,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.19763058787582308
+21-25,Male,HSC,Student,Unmarried,City,Without Family,No,No,Yes,No,Sometimes,No,Yes,No,Yes,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,Yes,Yes,No,No,No,No,No,1,4.03491561903276
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Never,Yes,No,No,No,No,More than 8 hours,No,More than 10 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,1,1.0134138985997507
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,4.012067268846744
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,0,2.0312541852627257
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Mild,Yes,Yes,No,No,No,No,No,Yes,Yes,1,5.031625404864404
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0,0.4961415280890161
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,Severe,No,Yes,No,No,No,No,No,No,No,0,1.0354971960599282
+26-30,Female,Post Graduate,Unemployed,Married,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,2-4 hours a day,Mild,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1,7.039043653348906
+21-25,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,No,No,No,No,Sometimes,No,No,No,No,Yes,5 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,Yes,Yes,No,1,6.049034083178501
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,Yes,No,Yes,Yes,No,7 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,0,3.030652013932048
+26-30,Male,Graduate,Unemployed,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,Yes,Yes,Yes,8 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,2.0229182589176498
+26-30,Female,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.0418074477907482
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,No,No,No,No,Yes,No,No,1,3.020833290050483
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,Yes,No,No,No,1,4.027558856828225
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,Yes,Yes,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1,5.013138255253691
+26-30,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,No,No,1,3.0110140297366184
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,No,No,Yes,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,Yes,1,5.048505936587117
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,Yes,Yes,No,6 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,Yes,No,No,No,No,1,3.0434392048204884
+16-20,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1,1.0378389682437479
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,8 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1,1.0263581177765708
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,Yes,Yes,1,3.0169317728028338
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1,4.016257481706844
+26-30,Male,Graduate,Service holder (Private),Unmarried,Town,With Family,No,No,Yes,No,Regularly,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,Yes,1,4.020009715926584
+21-25,Male,Graduate,Unemployed,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,Yes,5 hours,No,2-4 hours a day,Mild,Yes,Yes,No,No,No,Yes,Yes,No,No,1,5.031969066588244
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Mild,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,1,8.038583836908003
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.0364078950687092
+21-25,Female,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,4.021197355877837
+26-30,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,No,Never,Yes,No,No,No,No,7 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,1.0481946112265277
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,Yes,No,No,No,No,0,1.0395158766678307
+21-25,Male,Post Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,5 hours,No,Less than 2 hours,Mild,No,Yes,No,No,No,No,No,No,No,0,1.032174162100456
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Severe,No,No,No,Yes,No,No,No,Yes,Yes,1,3.034468829849374
+26-30,Female,Graduate,Unemployed,Married,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1,2.0267840024971115
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,Yes,1,3.019909239580046
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,Yes,Below 5 hours,Yes,Less than 2 hours,Moderate,No,Yes,Yes,No,No,Yes,No,Yes,Yes,1,8.024238907146051
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,Yes,Never,No,No,No,No,Yes,8 hours,No,8-10 hours a day,No Pressure,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,1,7.040313844418574
+26-30,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.0105757395451902
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,7 hours,No,Less than 2 hours,Mild,Yes,Yes,No,Yes,No,No,No,No,No,1,3.014642905620277
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,No,5-7 hours a day,Severe,Yes,No,No,Yes,No,No,No,No,No,1,2.01184010568087
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,8-10 hours a day,Mild,No,No,No,Yes,No,No,No,No,No,0,2.011629152092759
+26-30,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,Yes,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,No,No,No,1,4.04421842336044
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.038146314375201
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1,0.12751081689217472
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Regularly,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,0,2.028966953163493
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,0,1.01391336642604
+36-40,Male,Post Graduate,Service holder (Private),Married,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Mild,Yes,Yes,No,Yes,No,No,No,Yes,No,1,5.029664635004673
+21-25,Female,Post Graduate,Unemployed,Unmarried,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,Yes,Yes,Below 5 hours,Yes,2-4 hours a day,No Pressure,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1,11.028938870831222
+26-30,Female,Graduate,Service holder (Government),Unmarried,Village,Without Family,No,No,Yes,No,Never,No,No,No,Yes,No,7 hours,Yes,More than 10 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1,8.0169280747964
+21-25,Female,HSC,Student,Married,Town,With Family,Yes,No,No,No,Never,No,No,No,No,No,5 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.8274563216630256
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,Yes,No,0,3.027354065969519
+21-25,Male,Post Graduate,Student,Unmarried,Village,Without Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,Yes,No,No,No,Yes,1,4.025940189375895
+26-30,Female,Post Graduate,Unemployed,Married,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,Yes,1,3.0346340039220885
+16-20,Male,Post Graduate,Student,Married,Village,With Family,No,No,Yes,Yes,Sometimes,No,Yes,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1,0.3070239852800135
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,No,No,Yes,Yes,Never,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,4.035403746034706
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,No,Never,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1,3.011812160390882
+16-20,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,0,2.024984504585059
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,No,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1,4.0350343966285696
+21-25,Female,SSC,Student,Married,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,Yes,No,6 hours,No,8-10 hours a day,Severe,Yes,Yes,Yes,No,No,No,No,Yes,No,1,5.030125450343204
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,Yes,Yes,1,3.0442595936475327
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,Yes,Yes,No,No,No,No,1,4.036347745264758
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,Below 5 hours,No,Less than 2 hours,Moderate,No,No,No,Yes,No,No,No,No,No,0,1.0165173770832572
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,Yes,0,1.0128227498960172
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.6300178274831856
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,Yes,Yes,1,3.0356967711282525
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,No,No,No,1,2.011060452421665
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,Yes,5 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1,7.033431023250938
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0,1.0476092096569982
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,Yes,0,1.0330189671150352
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0,0.34936886087152874
+21-25,Female,Graduate,Student,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,No,Yes,Yes,1,6.02552679704826
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1,5.035731528737694
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,1,7.028330115619661
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,Yes,0,1.0318246715726374
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,Yes,7 hours,No,Less than 2 hours,Severe,Yes,Yes,Yes,No,No,No,No,Yes,No,1,5.047658592351061
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,7 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1,3.025444105512031
+21-25,Male,Post Graduate,Student,Married,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0,1.0484476225529566
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,No,Yes,No,No,No,No,No,No,No,1,1.0462140256782426
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,Yes,No,Yes,1,4.0178316453915714
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,Yes,No,No,No,No,Yes,1,4.012774452035007
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.5160544169422486
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.5373682234746238
+26-30,Male,Graduate,Student,Divorced,Town,With Family,Yes,No,Yes,Yes,Sometimes,Yes,No,No,No,No,5 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1,7.014031120055097
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,Yes,Yes,7 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,Yes,Yes,1,6.010728873026062
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,Yes,1,5.013777718430237
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,Yes,No,No,Yes,No,0,3.0373202709366542
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,No,7 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,No,Yes,No,No,Yes,No,No,1,6.012847545938409
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,No,No,No,1,2.0227590252117507
+26-30,Male,Post Graduate,Service holder (Government),Unmarried,Town,Without Family,Yes,No,No,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,No,Yes,No,No,No,No,No,Yes,1,2.0437950124387783
+21-25,Male,HSC,Student,Married,Town,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0,2.010930877429433
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,0,4.042578739303558
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1,3.021274190990936
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1,3.014726593104866
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,Yes,Yes,No,No,1,3.037869486614566
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.0351577138711954
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,Below 5 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.24788356442042164
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,Below 5 hours,No,More than 10 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.8756677022116469
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,Yes,No,No,No,No,1,3.045098880541082
+61+,Male,Graduate,Other,Divorced,Village,Without Family,No,Yes,Yes,Yes,Regularly,Yes,Yes,Yes,Yes,Yes,More than 8 hours,Yes,More than 10 hours a day,No Pressure,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,11.039402841752155
+21-25,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,Yes,8 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,No,No,1,1.042139237215394
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,Yes,No,No,No,No,8 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,No,No,0,1.0212813829028522
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,No,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,Yes,No,Yes,Yes,No,No,Yes,No,No,1,4.017097581751189
+26-30,Female,Post Graduate,Other,Married,City,With Family,No,No,Yes,Yes,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1,6.040024590065634
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,Yes,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,No,No,No,No,No,No,1,5.04227338957069
+26-30,Male,Graduate,Unemployed,Unmarried,Village,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0,0.7201062586888917
+26-30,Male,Post Graduate,Unemployed,Unmarried,City,Without Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.049620205680027
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.8515991532513513
+16-20,Female,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,No,No,No,0,0.815861880342119
+16-20,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,No,No,Sometimes,Yes,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,2.026504707076457
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,Yes,Yes,5 hours,No,5-7 hours a day,Severe,Yes,No,No,No,No,No,No,No,No,0,3.0248807234317114
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,More than 8 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,Yes,No,No,No,No,0,2.04105651842968
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Mild,No,Yes,No,No,No,No,No,No,No,0,2.0236321416101206
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0,0.5783199830488681
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,4.047230293024143
+26-30,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,Below 5 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.0443365100737205
+16-20,Female,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,Yes,1,2.0271597610950005
+26-30,Female,Graduate,Student,Married,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,Yes,1,3.04003484271166
+26-30,Male,Graduate,Service holder (Private),Unmarried,Village,With Family,No,No,No,No,Never,Yes,Yes,No,No,No,8 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0,0.8374993880184934
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1,5.040181714963388
+16-20,Female,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,Yes,1,4.014124954753437
+16-20,Female,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,No,No,No,No,No,Yes,1,4.046102116267183
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,Yes,Below 5 hours,No,Less than 2 hours,Moderate,Yes,Yes,Yes,No,No,No,Yes,No,No,1,5.030210094897915
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,Yes,Yes,More than 8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,Yes,No,No,Yes,1,7.0430582986443095
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Moderate,No,No,Yes,Yes,Yes,No,No,No,No,1,3.0228019840412244
+21-25,Female,Graduate,Student,Married,Town,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,Yes,No,0,1.045820929139848
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,Yes,No,No,No,Yes,1,3.0255680671493663
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Severe,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,6.010433506059212
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Never,No,No,No,No,No,8 hours,No,More than 10 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,3.0462152790567707
+61+,Female,Graduate,Other,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,6 hours,Yes,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0,2.0136514670714454
+51-55,Female,HSC,Other,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,Yes,No,8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,1,2.0227725455036167
+16-20,Male,SSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,Yes,No,0,1.0480024786820321
+51-55,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,No,Never,No,No,Yes,Yes,Yes,7 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,5.048024285877502
+46-50,Female,SSC,Other,Married,City,With Family,No,No,Yes,No,Never,No,No,Yes,Yes,No,8 hours,No,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,No,No,Yes,1,4.032937515524932
+51-55,Male,Graduate,Service holder (Private),Married,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,Yes,5-7 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,1,2.035273488486792
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,Yes,Sometimes,Yes,Yes,No,No,No,6 hours,No,More than 10 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,0,2.0279378208791328
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Never,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,0,2.0217284308679226
+21-25,Male,HSC,Student,Married,Town,With Family,No,No,Yes,No,Sometimes,No,No,Yes,No,No,Below 5 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,1,7.023146581814797
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,Moderate,Yes,No,No,Yes,Yes,Yes,Yes,No,No,1,5.036900738243082
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Severe,Yes,No,No,No,No,Yes,No,No,Yes,1,3.040094981177507
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Never,No,No,No,Yes,Yes,Below 5 hours,Yes,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,No,No,No,1,5.0416631617490335
+36-40,Male,Post Graduate,Businessman,Married,Town,With Family,Yes,No,No,No,Regularly,No,No,Yes,Yes,No,7 hours,Yes,Less than 2 hours,No Pressure,Yes,Yes,Yes,No,No,No,No,No,No,1,5.0415847257117825
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Sometimes,No,No,No,Yes,No,Below 5 hours,Yes,2-4 hours a day,Mild,Yes,No,No,No,No,No,Yes,No,No,1,4.013648244121947
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.1707940016415356
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,Below 5 hours,Yes,5-7 hours a day,No Pressure,Yes,No,No,Yes,No,No,No,No,No,1,4.0297768121881035
+26-30,Male,Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,Yes,Yes,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,Yes,No,No,No,Yes,No,1,5.012302350400666
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1,7.031981155292949
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1,7.027661220054935
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,Yes,No,No,More than 8 hours,No,Less than 2 hours,Severe,Yes,No,No,No,No,No,No,Yes,No,1,2.045508167310332
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,No,No,Yes,No,No,No,No,No,1,3.0240366005020833
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,Yes,Yes,7 hours,No,2-4 hours a day,Mild,Yes,Yes,Yes,No,Yes,No,Yes,No,No,1,7.0146826806571045
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1,7.015719667282114
+16-20,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Severe,No,No,No,No,Yes,No,Yes,Yes,No,1,4.040460425268699
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,Yes,No,No,Yes,No,7 hours,Yes,8-10 hours a day,Severe,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1,8.03472872253265
+21-25,Male,SSC,Service holder (Private),Unmarried,City,Without Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,Yes,No,No,Yes,1,5.014044907044911
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,More than 8 hours,No,2-4 hours a day,No Pressure,No,Yes,No,Yes,No,No,No,No,Yes,0,3.0133642722446
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1,7.0380387652583645
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1,7.012910520254568
+16-20,Female,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Severe,Yes,No,Yes,No,No,Yes,No,No,No,1,3.042874402371614
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,Yes,No,No,No,8 hours,No,5-7 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0,1.0382496890862598
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,0,3.013253951225676
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,Yes,2-4 hours a day,Moderate,No,No,No,No,No,No,No,Yes,No,1,2.0133935085634076
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,No,No,No,No,No,0,2.049465583140047
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,Yes,No,Yes,Yes,No,No,No,No,1,3.024970831830245
+21-25,Female,HSC,Student,Unmarried,Town,With Family,No,No,Yes,Yes,Regularly,No,No,No,No,Yes,More than 8 hours,Yes,More than 10 hours a day,Moderate,Yes,No,Yes,Yes,No,Yes,Yes,No,No,1,7.024825685882676
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.25678628993531616
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,Yes,Yes,No,No,No,No,No,No,1,2.0425119826903
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.13618183112843046
+16-20,Male,HSC,Student,Unmarried,City,With Family,No,Yes,No,No,Never,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,No,No,No,No,Yes,No,No,No,Yes,1,2.0478899430953543
+21-25,Female,HSC,Student,Unmarried,Village,Without Family,Yes,Yes,No,No,Never,No,No,Yes,No,No,6 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.36026426461061145
+16-20,Female,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,No,7 hours,No,8-10 hours a day,Mild,Yes,No,No,No,No,Yes,Yes,Yes,No,1,5.049440042552915
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.4109418317515856
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,No,Yes,No,No,No,No,No,Yes,1,2.0401351274103576
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,6 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,Yes,No,No,Yes,No,1,5.025050383421236
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,2.0133400286679466
+21-25,Male,HSC,Student,Married,Village,With Family,Yes,Yes,Yes,Yes,Never,Yes,Yes,Yes,No,Yes,5 hours,Yes,5-7 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,2.0410858766370974
+21-25,Female,Post Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.3170792254191167
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,Yes,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,Yes,No,Yes,No,No,No,1,6.032336169989432
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,No,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,No,No,Yes,Yes,No,No,Yes,No,No,1,3.026968880369879
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,No,No,Never,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,3.0462541754037895
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,1,1.014447899292246
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.7629900073215435
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,Yes,No,1,5.0297050041716345
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,Yes,Yes,No,No,No,No,1,5.010454145790697
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,No,No,No,No,No,0,1.0287464256797652
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Regularly,Yes,No,No,Yes,No,7 hours,No,5-7 hours a day,Severe,Yes,No,No,Yes,No,No,Yes,Yes,Yes,1,6.012252131027274
+21-25,Male,Graduate,Student,Married,City,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,More than 10 hours a day,Severe,No,No,No,No,Yes,No,No,No,Yes,0,4.014752716650723
+21-25,Female,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Never,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,2.0147010498710842
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.0359684120846424
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,Yes,No,Yes,No,No,1,4.039841795170617
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Never,No,No,Yes,No,No,6 hours,Yes,2-4 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1,2.0333347506038866
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,Yes,6 hours,Yes,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1,4.048486901938982
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,Yes,No,Yes,No,No,Yes,Yes,1,4.024994823180948
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,No,0,1.0214284834512743
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,No,No,6 hours,Yes,5-7 hours a day,Severe,Yes,Yes,No,Yes,No,No,No,No,No,1,4.044743965127578
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,No,No,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,5-7 hours a day,Mild,Yes,Yes,Yes,No,Yes,No,No,No,Yes,1,6.018943833540778
+21-25,Female,HSC,Student,Married,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,1.0485289015776245
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,Yes,Yes,8 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,12.010486178987593
+21-25,Female,HSC,Other,Married,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,Yes,Yes,Below 5 hours,No,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,No,Yes,No,1,5.048795153068306
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,No,No,No,0,0.38540266135487145
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,0.32474760774990463
+21-25,Female,HSC,Student,Unmarried,Village,Without Family,No,Yes,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.011726396478023
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,Yes,No,1,2.045645724547923
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1,1.031108044363452
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,More than 8 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.049718591844772
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,Yes,0,1.012951862589416
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,0.5341568665265988
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,Yes,No,No,Yes,No,Yes,Yes,No,1,4.032154171376053
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,Yes,1,2.048772101424764
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,Yes,Yes,No,6 hours,No,2-4 hours a day,Moderate,Yes,No,Yes,No,No,No,Yes,No,Yes,1,5.030923913766806
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,7.035175945525411
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,No,No,No,No,No,Yes,No,1,3.0378299475593846
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,No,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,1,6.028181642590711
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Regularly,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,No,Yes,No,No,Yes,No,No,Yes,No,1,3.0351023232033625
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,More than 8 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1,1.033372572476924
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,No,Yes,No,1,3.0460463204196397
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0,0.21273937997981013
+16-20,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,6 hours,Yes,8-10 hours a day,Severe,No,No,No,No,Yes,No,No,No,No,1,3.0118178552136583
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,Yes,No,Below 5 hours,Yes,2-4 hours a day,Mild,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1,9.021238527583689
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,Yes,No,No,No,No,6 hours,No,2-4 hours a day,Moderate,No,Yes,No,No,No,No,No,No,No,0,1.0480164593630623
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1,6.045610551355637
+21-25,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0,0.7417575846032317
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,2-4 hours a day,Mild,Yes,No,No,No,Yes,No,No,No,Yes,1,3.0282262701114284
+26-30,Male,Graduate,Service holder (Government),Married,Town,Without Family,Yes,Yes,No,No,Regularly,No,No,No,Yes,No,5 hours,No,Less than 2 hours,Severe,No,Yes,No,No,No,No,No,No,No,0,2.0348053039120613
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,No,No,Yes,No,Yes,Yes,Yes,No,1,5.021095247319245
+21-25,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,Yes,5-7 hours a day,Moderate,No,Yes,No,No,No,No,Yes,No,No,1,3.0175248463889504
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,No,Yes,More than 8 hours,No,More than 10 hours a day,Moderate,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,9.028547936197599
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,Severe,Yes,No,Yes,No,No,No,No,No,No,0,2.024134089121042
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0,1.033346244474035
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Never,No,No,Yes,No,No,5 hours,Yes,Less than 2 hours,Moderate,Yes,No,Yes,No,No,No,Yes,Yes,No,1,5.013109385478599
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,No,No,No,No,Sometimes,No,No,No,Yes,No,Below 5 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,Yes,No,Yes,Yes,1,5.0489757923066465
+21-25,Female,Graduate,Unemployed,Married,Town,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,Yes,More than 8 hours,No,5-7 hours a day,No Pressure,Yes,Yes,No,No,No,No,Yes,No,No,1,4.049448429779184
+21-25,Female,Graduate,Student,Unmarried,Town,Without Family,Yes,No,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,1,3.03792646856079
+21-25,Female,Graduate,Student,Unmarried,Town,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1,6.031443854653765
+21-25,Female,Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,8-10 hours a day,No Pressure,Yes,Yes,Yes,Yes,No,No,No,No,No,1,6.022381104651453
+26-30,Female,Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,More than 8 hours,No,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,No,Yes,No,0,4.042551800788278
+21-25,Female,Graduate,Unemployed,Unmarried,Town,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,More than 10 hours a day,No Pressure,Yes,No,No,No,No,Yes,Yes,Yes,No,1,5.037389246902155
+21-25,Female,Graduate,Student,Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,Less than 2 hours,No Pressure,Yes,No,No,No,No,No,No,No,No,1,2.0165046775737956
+26-30,Female,Graduate,Unemployed,Married,Village,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,Yes,8 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,Yes,No,No,0,4.046437087379753
+26-30,Female,Graduate,Unemployed,Married,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,Yes,No,Below 5 hours,No,Less than 2 hours,No Pressure,Yes,No,Yes,No,No,No,Yes,Yes,No,1,5.042901489716927
+26-30,Female,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,5 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,0,2.047991996531677
+21-25,Female,Graduate,Student,Unmarried,City,Without Family,No,No,Yes,No,Sometimes,No,No,No,No,No,Below 5 hours,Yes,Less than 2 hours,Mild,Yes,Yes,No,No,Yes,No,Yes,No,No,1,5.039028780335534
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0,0.15964051494381667
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,8 hours,No,5-7 hours a day,Mild,No,Yes,No,No,No,No,No,No,No,1,1.0345366078374316
+26-30,Female,Graduate,Other,Married,City,Without Family,No,No,Yes,No,Never,No,No,No,No,No,5 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,No,No,No,No,No,Yes,No,1,4.026729721451625
+21-25,Male,SSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,Yes,No,No,6 hours,No,2-4 hours a day,Mild,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,1,6.0473091393341605
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0,0.8895095492804138
+26-30,Female,Post Graduate,Unemployed,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1,7.044642555580016
+26-30,Female,HSC,Unemployed,Married,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,6 hours,No,2-4 hours a day,No Pressure,Yes,No,No,No,No,No,No,No,No,0,2.0118087468042476
+26-30,Female,Graduate,Service holder (Private),Unmarried,City,With Family,Yes,Yes,No,No,Never,No,No,No,Yes,No,7 hours,No,5-7 hours a day,Severe,No,Yes,No,No,No,No,No,Yes,No,0,3.01105467897989
+21-25,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,Yes,No,0,3.025058534675122
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,Yes,No,No,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,Yes,1,4.042422133231273
+21-25,Female,HSC,Student,Married,City,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,0,2.049491045172598
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,Less than 2 hours,Moderate,No,Yes,No,Yes,No,No,No,No,No,1,2.016016675644141
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.717795815437326
+16-20,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,Yes,7 hours,No,5-7 hours a day,Moderate,Yes,No,Yes,No,No,No,No,No,No,1,3.0337652286140853
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,Yes,Never,No,No,No,No,No,7 hours,Yes,5-7 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1,5.025235634265241
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,No,No,No,Never,No,No,No,No,No,7 hours,Yes,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,1.0487965759125841
+21-25,Male,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,No,Yes,1,4.043684756925428
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Never,No,Yes,No,No,Yes,5 hours,Yes,8-10 hours a day,Severe,Yes,Yes,No,No,No,No,No,No,No,0,4.043533148188446
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,No,Yes,No,No,Yes,No,No,No,Yes,0,3.028747726391799
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,Yes,7 hours,No,5-7 hours a day,Moderate,No,No,Yes,No,No,No,No,No,No,0,3.0265927800935066
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,5-7 hours a day,Mild,No,Yes,Yes,No,No,No,No,No,No,1,2.020936282877228
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,More than 8 hours,No,Less than 2 hours,Severe,Yes,Yes,No,Yes,No,No,No,No,Yes,1,4.012255019866037
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,Yes,Less than 2 hours,Moderate,No,Yes,No,No,Yes,No,Yes,Yes,Yes,1,6.044588895050202
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,Below 5 hours,No,5-7 hours a day,Moderate,No,No,No,No,No,No,No,No,Yes,0,1.0425160403652032
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,No,No,No,No,No,6 hours,No,8-10 hours a day,Severe,Yes,No,Yes,No,No,No,No,No,No,1,2.0499887069314453
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Never,No,No,Yes,No,Yes,7 hours,No,Less than 2 hours,Moderate,Yes,No,No,No,No,No,No,No,No,0,2.049865473482956
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,Yes,No,Yes,Yes,No,Below 5 hours,Yes,5-7 hours a day,Severe,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,1,8.032217268224105
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Mild,Yes,Yes,Yes,No,No,No,No,No,No,1,3.0407594966072202
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,Yes,No,Yes,Yes,No,No,No,Yes,1,5.047790629195297
+21-25,Male,HSC,Student,Married,Town,With Family,Yes,No,No,No,Never,No,Yes,No,No,No,6 hours,No,5-7 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,Yes,1,2.0439858956270966
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,1,1.019893924069728
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1,8.028021765412404
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,Yes,No,7 hours,No,Less than 2 hours,Severe,No,No,No,No,No,No,No,No,No,0,1.01516637660606
+21-25,Female,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,Yes,0,1.048162041090349
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Never,No,No,No,No,No,Below 5 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,No,0,0.2589725452273379
+21-25,Male,Graduate,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,No,Yes,No,No,No,No,No,1,4.034246985378036
+21-25,Male,Post Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,Moderate,No,Yes,Yes,No,No,No,No,Yes,No,1,3.0191457122201384
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,No,1,2.0368680273762343
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,1,6.034725129618316
+21-25,Male,HSC,Student,Married,City,With Family,Yes,Yes,Yes,No,Regularly,No,No,Yes,Yes,Yes,7 hours,Yes,5-7 hours a day,Moderate,Yes,No,No,Yes,Yes,No,Yes,No,No,1,7.024326508721313
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,Severe,Yes,Yes,No,No,Yes,No,Yes,No,No,1,4.0145423036879855
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Sometimes,Yes,Yes,No,No,No,6 hours,No,5-7 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,0,2.036862927823712
+21-25,Female,HSC,Student,Married,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,7 hours,Yes,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,No,0,1.0308123080361518
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,8 hours,No,5-7 hours a day,No Pressure,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1,5.040892735669425
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,6 hours,No,8-10 hours a day,No Pressure,Yes,Yes,No,No,Yes,No,No,No,No,1,3.03080654004448
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.0440872600127415
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,Yes,No,No,Below 5 hours,Yes,2-4 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,Yes,1,3.0320762735509796
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,Yes,Never,No,No,No,No,No,Below 5 hours,No,8-10 hours a day,Moderate,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,7.032437518861416
+21-25,Male,Graduate,Student,Unmarried,Village,Without Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,Yes,0,1.0450661441063338
+21-25,Female,HSC,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,Yes,No,7 hours,No,5-7 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,0,1.0261393146484958
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,Yes,5-7 hours a day,Mild,Yes,Yes,Yes,Yes,No,No,No,Yes,No,1,6.015360609138026
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,No,Yes,Sometimes,No,No,No,No,No,6 hours,No,Less than 2 hours,No Pressure,No,No,No,No,No,No,No,No,No,0,0.10441769369888193
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,No,No,No,Sometimes,No,No,No,No,No,Below 5 hours,No,More than 10 hours a day,No Pressure,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,5.0111513070525335
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,7 hours,No,Less than 2 hours,Mild,No,No,No,No,No,No,No,No,Yes,0,1.0402054902269449
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,No,No,No,7 hours,No,Less than 2 hours,Mild,Yes,No,No,No,No,No,No,No,No,0,1.0348123820541386
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,Yes,No,Yes,No,Sometimes,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,No,No,No,No,Yes,Yes,1,2.038163190723969
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,0,2.018518566460356
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,Yes,Yes,No,Never,Yes,No,No,No,No,7 hours,No,8-10 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,0,2.0154548590234707
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,No,Never,No,No,No,Yes,No,5 hours,Yes,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,No,No,1,6.010581786626715
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,Yes,No,Never,No,No,No,No,No,6 hours,Yes,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,1.024023502352264
+21-25,Male,HSC,Student,Unmarried,City,Without Family,Yes,Yes,No,No,Regularly,No,No,No,No,No,8 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.0335967074741854
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,No,No,No,Never,Yes,No,No,Yes,Yes,7 hours,No,Less than 2 hours,Moderate,No,Yes,No,No,No,No,No,No,No,0,3.025689761803989
+21-25,Male,HSC,Student,Unmarried,Town,Without Family,No,No,Yes,No,Never,No,No,No,No,No,6 hours,No,2-4 hours a day,Severe,No,No,No,No,No,No,No,No,No,1,0.7523691427638673
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Moderate,No,No,No,No,No,No,No,No,No,0,0.6654858750780936
+21-25,Male,HSC,Student,Unmarried,City,With Family,No,No,Yes,No,Never,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,No,Yes,Yes,No,1,5.027498996880949
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,No,5 hours,No,5-7 hours a day,Moderate,Yes,No,No,No,No,No,No,No,No,0,1.04616634777975
+21-25,Male,HSC,Student,Unmarried,Village,With Family,No,No,Yes,Yes,Sometimes,No,No,Yes,No,Yes,5 hours,Yes,Less than 2 hours,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,1,8.023930218680931
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,Yes,2-4 hours a day,Mild,No,No,No,No,No,No,No,No,No,0,1.0305595795663924
+21-25,Female,HSC,Student,Unmarried,Village,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,Yes,Below 5 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,Yes,No,1,6.041346120509646
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,Yes,Yes,Yes,Yes,No,Yes,1,5.025861711292851
+21-25,Male,Post Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Sometimes,Yes,No,No,No,No,5 hours,No,5-7 hours a day,Mild,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1,7.034883468009115
+21-25,Female,Graduate,Student,Unmarried,City,With Family,No,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,No,2-4 hours a day,Moderate,Yes,Yes,Yes,No,No,No,No,Yes,Yes,1,5.04449454834987
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,5-7 hours a day,Severe,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,1,6.047980824946306
+21-25,Male,HSC,Student,Unmarried,Village,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,7.015882939237161
+21-25,Female,HSC,Student,Unmarried,City,With Family,No,Yes,Yes,Yes,Sometimes,No,No,Yes,Yes,No,Below 5 hours,Yes,8-10 hours a day,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,10.04706350500646
+21-25,Male,Post Graduate,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,No,5-7 hours a day,Moderate,No,No,No,Yes,No,No,No,No,Yes,1,3.0296846517231817
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,No,No,Sometimes,No,No,No,Yes,No,8 hours,No,5-7 hours a day,Severe,No,No,No,No,No,No,No,No,Yes,1,2.0203297755319585
+21-25,Male,HSC,Student,Unmarried,Town,With Family,Yes,No,Yes,No,Sometimes,No,No,No,No,No,7 hours,No,8-10 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,No,0,1.0283654302495304
+16-20,Female,HSC,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,Yes,No,Yes,No,5 hours,Yes,5-7 hours a day,Mild,Yes,Yes,No,No,No,No,Yes,Yes,No,1,6.049201303011419
+21-25,Male,Graduate,Student,Unmarried,City,Without Family,Yes,No,No,No,Never,No,No,No,No,No,6 hours,No,More than 10 hours a day,Mild,Yes,No,No,No,No,No,No,Yes,No,1,2.029704723759715
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,Yes,No,Regularly,No,No,No,No,No,More than 8 hours,No,More than 10 hours a day,Moderate,Yes,No,Yes,Yes,No,No,Yes,Yes,No,1,5.0231500644115
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,No,Yes,Yes,No,Sometimes,No,No,No,Yes,No,6 hours,No,5-7 hours a day,Moderate,Yes,No,Yes,Yes,Yes,No,No,No,Yes,1,6.035336034172669
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,No,No,No,Sometimes,No,No,No,No,Yes,8 hours,No,Less than 2 hours,Mild,Yes,Yes,Yes,No,No,No,No,No,No,1,4.019605824751128
+21-25,Male,Post Graduate,Service holder (Private),Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,8 hours,Yes,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,No,No,Yes,1,4.013034533124347
+21-25,Male,HSC,Student,Unmarried,Town,With Family,No,No,No,No,Sometimes,Yes,No,No,No,No,7 hours,No,More than 10 hours a day,Mild,Yes,No,Yes,No,No,No,No,No,No,1,2.015155188876426
+41-45,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,No,Yes,No,Sometimes,No,No,Yes,Yes,No,8 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,No,No,1,5.015121833558311
+21-25,Male,Graduate,Student,Unmarried,City,With Family,No,No,No,Yes,Sometimes,No,No,No,No,Yes,More than 8 hours,Yes,More than 10 hours a day,No Pressure,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1,9.016076107740492
+26-30,Male,Graduate,Service holder (Private),Married,City,With Family,Yes,Yes,Yes,Yes,Sometimes,No,No,No,No,No,5 hours,No,2-4 hours a day,Severe,Yes,No,No,No,Yes,No,No,No,No,0,2.0155530869059763
+21-25,Male,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Sometimes,No,No,No,No,Yes,8 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,No,No,No,1,4.035634989792128
+21-25,Male,Graduate,Student,Unmarried,Village,With Family,No,No,Yes,No,Sometimes,No,No,Yes,No,Yes,7 hours,No,More than 10 hours a day,No Pressure,No,No,No,No,No,No,No,No,No,1,1.0172752033759658
+16-20,Female,Graduate,Student,Unmarried,City,With Family,Yes,Yes,Yes,No,Never,No,No,No,No,No,8 hours,No,2-4 hours a day,Mild,Yes,Yes,Yes,No,No,No,No,No,No,1,3.0238266913329546
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,8-10 hours a day,Mild,No,No,No,No,Yes,No,No,No,No,0,2.0458715363962403
+21-25,Male,Graduate,Student,Unmarried,Town,With Family,Yes,Yes,No,No,Sometimes,No,No,Yes,Yes,No,7 hours,No,8-10 hours a day,Mild,No,No,No,No,Yes,No,No,No,No,0,2.028958465610515
+26-30,Female,Post Graduate,Service holder (Private),Unmarried,City,With Family,Yes,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,Yes,No,No,No,No,Yes,No,No,1,3.036702309540841
+26-30,Male,Graduate,Businessman,Unmarried,City,With Family,Yes,Yes,Yes,Yes,Sometimes,Yes,No,Yes,Yes,No,8 hours,No,2-4 hours a day,Mild,No,Yes,No,No,No,No,No,No,Yes,1,3.016892794848065
+26-30,Male,Post Graduate,Service holder (Private),Married,Town,With Family,Yes,Yes,Yes,No,Sometimes,Yes,No,No,No,No,6 hours,No,Less than 2 hours,Severe,Yes,Yes,No,No,No,No,Yes,No,Yes,1,4.017691560752347
+26-30,Male,Graduate,Service holder (Private),Unmarried,City,With Family,No,Yes,Yes,No,Sometimes,No,No,No,No,No,8 hours,Yes,8-10 hours a day,No Pressure,No,Yes,No,No,No,No,No,No,Yes,1,3.0116347446506593
+26-30,Male,Post Graduate,Service holder (Private),Unmarried,City,With Family,No,No,Yes,Yes,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Severe,Yes,Yes,Yes,No,No,No,Yes,No,No,1,4.016757402522886
+21-25,Male,Graduate,Student,Married,Village,With Family,No,No,Yes,No,Never,Yes,No,No,No,No,5 hours,No,5-7 hours a day,Mild,Yes,No,No,No,No,No,No,No,No,1,1.0211436135612784
+21-25,Male,Graduate,Other,Unmarried,City,With Family,Yes,Yes,No,No,Sometimes,No,No,No,No,No,7 hours,No,2-4 hours a day,Moderate,Yes,No,No,No,No,No,Yes,No,No,0,2.01708041937107
+26-30,Male,Post Graduate,Student,Unmarried,City,Without Family,Yes,Yes,Yes,No,Regularly,No,No,No,No,No,6 hours,No,Less than 2 hours,Moderate,No,No,No,No,No,No,No,No,Yes,0,1.0135481013502823
